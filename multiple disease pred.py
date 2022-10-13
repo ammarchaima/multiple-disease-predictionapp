@@ -186,6 +186,9 @@ if st.button('parkinson Test Result'):
     else:
         parkinson_diagnosis='The person does not have any heart disease'
 st.success(parkinson_diagnosis)
+st.write("""
+-Developed by Ammar Chaima
+""")
     
    
     
